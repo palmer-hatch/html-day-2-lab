@@ -1,0 +1,17 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+    display: flex;
+    background-color: gray;
+    justify-content: space-evenly;
+}
+.containers{
+    position: relative;
+    display: flex;
+    background-color: lightgrey;
+}
